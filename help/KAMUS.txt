@@ -1,0 +1,9 @@
+[OPTIONS]
+TITLE=Program Kamus
+COPYRIGHT=Program Kamus versi 2.00, (C) 2008 Edwin Pelleng
+WARNING=1  
+COMPRESS=TRUE
+[FILES]
+kamus.rtf  ; main topics
+
+

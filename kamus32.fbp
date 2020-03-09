@@ -1,0 +1,18 @@
+[Project]
+Version=2
+Api=fb (FreeBASIC),win (Windows)
+Description=Program kamus for win32
+[Make]
+Recompile=0
+Module=Module Build,fbc -c
+Current=1
+1=Windows GUI,fbc -s gui -w 2
+2=Windows GUI (Debug),fbc -s gui -g -w 2
+[File]
+1=kamus32.Bas
+2=kamus32.Bi
+3=kamus32.Rc
+[FileInfo]
+1=0,133,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2=0,49,1,4152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3=0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
