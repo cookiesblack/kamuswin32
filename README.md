@@ -1,4 +1,4 @@
-# Program Kamus versi 2.00 © 2008 Edwin Pelleng
+# Program Kamus versi 2.00 Edwin Pelleng
 
 Terima kasih telah meginstal program ini, berikut ini adalah topik yang biasa dipilih untuk mengetahui cara pengunaan program ini:
 
@@ -46,7 +46,7 @@ namun anda tidak diperkenankan untuk mengubah software executable tanpa seijin p
 
 PENGEMBANG
 Edwin Pelleng
-© 2008 Edwin Pelleng
+© Edwin Pelleng
 ewin_p@telkom.net
 
 LISENSI / PERJANJIAN PENGGUNAAN
